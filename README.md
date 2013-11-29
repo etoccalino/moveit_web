@@ -40,3 +40,7 @@ To run the web UI alone (without connecting to a backend), you'll need to make s
 ```
 
 After this, navigate to the webui directory and run `python2 -m SimpleHTTPServer` for a fast and cheap file server. Navigating your WebGL enabled browser to `localhost:8000` will give you access to the web UI.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/etoccalino/moveit_web/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
